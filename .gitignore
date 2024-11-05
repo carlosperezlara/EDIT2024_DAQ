@@ -1,0 +1,8 @@
+
+.DS_Store
+*.root
+*.trc
+*.cc~
+trc2root/makefile~
+trc2root/trc2root
+/trc2root/trc2root.dSYM

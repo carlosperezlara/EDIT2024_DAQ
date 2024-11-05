@@ -1,0 +1,1 @@
+sudo mount -t cifs //10.0.8.13/Waveforms `pwd`/LecroyMount -o user=LCRYDMIN,uid=arcadia,gid=arcadia,vers=2.0
